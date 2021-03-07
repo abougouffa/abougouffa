@@ -5,6 +5,7 @@ My name is Abdelhak and I'm a Ph.D. Student in Robotics at the SATIE lab of Pari
 My research interests include:
 
 - Mobile Robotics :robot:
+- State Estimation and Data Fusion :chart_with_downwards_trend:
 - Indoor and Outdoor Localization :satellite:
 - Simultaneous Localization and Mapping (SLAM) :car:
 - Embedded Systems :pager:
