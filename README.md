@@ -16,6 +16,3 @@ I work also as a research and development engineer in robotics at ez-Wheel as pa
 
 I love Free and Open Source softwares, I :heart: coding in C/C++, Rust and Python.
 
-<a href="https://github.com/abougouffa">
-<img src="https://metrics.lecoq.io/abougouffa?base.metadata=0" />
-</a>
