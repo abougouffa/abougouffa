@@ -14,5 +14,5 @@ My research interests include:
 
 I work also as a research and development engineer in robotics at ez-Wheel as part of my Ph.D. studies.
 
-I love Free and Open Source softwares, I :heart: coding in C/C++, Rust and Python. Emacs + Evil = 💙
+I love Free and Open Source softwares, I :heart: coding in C/C++, Rust and Python. Emacs+Evil=💙
 
