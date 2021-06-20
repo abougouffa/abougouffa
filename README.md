@@ -10,7 +10,7 @@ My research interests include:
 - Simultaneous Localization and Mapping (SLAM) :car:
 - Embedded Systems :pager:
 - Artificial intelligence :ghost:
-- and a little of Computer Vision :camera:
+- Computer Vision :camera:
 
 I work also as a research and development engineer in robotics at ez-Wheel as part of my Ph.D. studies.
 
