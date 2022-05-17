@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![Abdelhak's GitHub stats](https://github-readme-stats.vercel.app/api?username=abougouffa&show_icons=true&theme=nord)](https://github.com/abougouffa)
-
 My name is _Abdelhak_ and I'm a Ph.D. Candidate in Robotics at the [Laboratory of Systems and Applications of Information and Energy Technologies - SATIE](http://satie.ens-paris-saclay.fr/) ([Paris-Saclay University](https://www.universite-paris-saclay.fr/), [ENS Paris-Saclay](https://www.ens-paris-saclay.fr), [CNRS](https://www.cnrs.fr)), and a R&D Robotics Engineer at [ez-Wheel](https://www.ez-wheel.com) (as part of my Ph.D. studies).
 
 My current research interests include:
