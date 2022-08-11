@@ -18,9 +18,9 @@ ___
 
 <div align="center">
 <a href="https://github.com/abougouffa">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=abougouffa&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abougouffa&show_icons=true" />
 </a>
 <a href="https://github.com/abougouffa">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abougouffa&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abougouffa&layout=compact" />
 </a>
 </div>
