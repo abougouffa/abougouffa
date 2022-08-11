@@ -13,3 +13,14 @@ My current research interests include:
 - and Computer Vision :camera:
 
 I love Free and Open Source softwares, I'm using GNU/Linux exclusively and I :heart: coding in C/C++ 🔨, Rust 🦀, Python 🐍 and Lisp ☯️. I spend most of my time in a Vim-flavored Emacs, thanks to [Doom Emacs](https://github.com/doomemacs/doomemacs).
+
+___
+
+<div align="center">
+<a href="https://github.com/abougouffa">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=abougouffa&show_icons=true" />
+</a>
+<a href="https://github.com/abougouffa">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abougouffa&layout=compact" />
+</a>
+</div>
