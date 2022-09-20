@@ -12,7 +12,7 @@ My current research interests include:
 - Artificial Intelligence :ghost:
 - and Computer Vision :camera:
 
-I love Free and Open Source softwares, I'm using GNU/Linux exclusively and I :heart: coding in C/C++ 🔨, Rust 🦀, Python 🐍 and Lisp ☯️. I spend most of my time in a Vim-flavored Emacs, thanks to [Doom Emacs](https://github.com/doomemacs/doomemacs).
+I love Free and Open Source softwares, I'm using GNU/Linux exclusively. I :heart: coding in C/C++ 🔨, Rust 🦀, Python 🐍 and Lisp ☯️. I spend most of my time in a Vim-flavored Emacs, thanks to [Doom Emacs](https://github.com/doomemacs/doomemacs).
 
 ___
 
