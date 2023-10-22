@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is _Abdelhak_ and I'm a Ph.D. Candidate in Robotics at the [Laboratory of Systems and Applications of Information and Energy Technologies - SATIE](http://satie.ens-paris-saclay.fr/) ([Paris-Saclay University](https://www.universite-paris-saclay.fr/en), [ENS Paris-Saclay](https://www.ens-paris-saclay.fr/en), [CNRS](https://www.cnrs.fr/en)), and a R&D Robotics Engineer at [ez-Wheel](https://www.ez-wheel.com/en) (as part of my Ph.D. studies).
+My name is _Abdelhak_ and I'm a R&D Engineer who mainly work on Robotics and Embedded Systems with a PhD. degree in Robotics from [Paris-Saclay University](https://www.universite-paris-saclay.fr/en).
 
 My current research interests include:
 
