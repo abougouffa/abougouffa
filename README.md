@@ -12,4 +12,4 @@ My current research interests include:
 - Artificial Intelligence :ghost:
 - and Computer Vision :camera:
 
-I love Free and Open Source softwares, I'm using GNU/Linux exclusively and I :heart: coding in **C/C++** 🔨, **Rust** 🦀, **Python** 🐍 and **Lisp** ☯️. I spend most of my time in [Emacs](https://github.com/abougouffa/minemacs).
+I love Free and Open Source softwares, I'm using GNU/Linux exclusively and I :heart: coding in **C/C++** 🔨, **Rust** 🦀, **Python** 🐍 and **Lisp** ☯️. I spend most of my time in a fine-tuned [Emacs](https://github.com/abougouffa/minemacs) environment.
