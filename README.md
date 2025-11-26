@@ -13,8 +13,3 @@ My current research interests include:
 - and Computer Vision :camera:
 
 I like and use mainly free and open source softwares. I use GNU/Linux exclusively and I :heart: coding in **C/C++** 🔨, **Rust** 🦀, **Python** 🐍 and **Lisp** ☯️. I spend most of my time in a fine-tuned [Emacs](https://github.com/abougouffa/minemacs) environment.
-
----
-
-![abougouffa's Stats](https://github-readme-stats.vercel.app/api?username=abougouffa&theme=default&show_icons=true&hide_border=false&count_private=true)
-![abougouffa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abougouffa&theme=default&show_icons=true&hide_border=false&layout=compact)
