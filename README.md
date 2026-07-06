@@ -4,12 +4,12 @@ My name is _Abdelhak_ and I'm a R&D Engineer who mainly work on Robotics and Emb
 
 My current research interests include:
 
-- Mobile Robotics :robot:
-- State Estimation and Sensor Fusion :chart_with_downwards_trend:
-- Indoor and Outdoor Localization :satellite:
-- Simultaneous Localization and Mapping (SLAM) :car:
-- Embedded, Distributed and Real-time Systems :pager:
-- Artificial Intelligence :ghost:
-- and Computer Vision :camera:
+- Mobile Robotics
+- Computer Vision
+- State Estimation and Sensor Fusion
+- Indoor and Outdoor Localization
+- Simultaneous Localization and Mapping (SLAM)
+- Embedded, Distributed and Real-time Systems
+- and Artificial Intelligence
 
-I like and use mainly free and open source softwares. I use GNU/Linux exclusively and I :heart: coding in **C/C++** 🔨, **Rust** 🦀, **Python** 🐍 and **Lisp** ☯️. I spend most of my time in a fine-tuned [Emacs](https://github.com/abougouffa/minemacs) environment.
+I like and use mainly free and open source softwares. I use GNU/Linux exclusively and I like coding in **C/C++**, **Rust**, **Python** and **Lisp**. I spend most of my time in a fine-tuned [Emacs](https://github.com/abougouffa/minemacs) environment.
